@@ -5,8 +5,8 @@ and the data processing.  All commands below are to be performed in Matlab.
 
 Citation: Barreiro, Hari Gautaum, Shew, & Ly (2017). 
 A Theoretical Framework for Analyzing Coupled Neuronal Networks: Application to the Olfactory System. 
-PLoS Computational Biology xx, xx
-DOI: 
+PLoS Computational Biology (10), Vol. 13: pp. e1005780. http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005780 
+DOI: 10.1371/journal.pcbi.1005780
 
 
 Sub-directories: 
